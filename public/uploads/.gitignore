@@ -1,6 +1,0 @@
-*
-!.gitignore
-!.htaccess
-!game-assets/
-!game-assets/**/
-!game-assets/**/.gitkeep
